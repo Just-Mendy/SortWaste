@@ -1,6 +1,6 @@
-package com.enviro.assessment.grad001.MendiMkhize.SortWaste.services;
+package com.enviro.assessment.grad001.MendyMkize.SortWaste.services;
 
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.model.Category;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.model.Category;
 
 import java.util.List;
 

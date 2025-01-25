@@ -1,4 +1,4 @@
-package com.enviro.assessment.grad001.MendiMkhize.SortWaste;
+package com.enviro.assessment.grad001.MendyMkize.SortWaste;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package com.enviro.assessment.grad001.MendiMkhize.SortWaste.controller;
+package com.enviro.assessment.grad001.MendyMkize.SortWaste.controller;
 
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.model.Category;
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.services.ServiceImplementation;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.model.Category;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.services.ServiceImplementation;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package com.enviro.assessment.grad001.MendiMkhize.SortWaste.model;
+package com.enviro.assessment.grad001.MendyMkize.SortWaste.model;
 
 
 import jakarta.persistence.*;

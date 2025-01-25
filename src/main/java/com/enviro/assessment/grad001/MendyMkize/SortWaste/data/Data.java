@@ -1,7 +1,7 @@
-package com.enviro.assessment.grad001.MendiMkhize.SortWaste.data;
+package com.enviro.assessment.grad001.MendyMkize.SortWaste.data;
 
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.model.Category;
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.repository.CategoryRepository;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.model.Category;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.repository.CategoryRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 

@@ -1,8 +1,8 @@
-package com.enviro.assessment.grad001.MendiMkhize.SortWaste.services;
+package com.enviro.assessment.grad001.MendyMkize.SortWaste.services;
 
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.exception.ResourceNotFoundException;
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.model.Category;
-import com.enviro.assessment.grad001.MendiMkhize.SortWaste.repository.CategoryRepository;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.exception.ResourceNotFoundException;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.model.Category;
+import com.enviro.assessment.grad001.MendyMkize.SortWaste.repository.CategoryRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
